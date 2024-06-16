@@ -86,7 +86,7 @@ DATABASES = {
         'NAME': 'employee_management_0wrd', #databasename
         'USER': 'root', #userName
         'PASSWORD': 'ru1vmT1KrgY6nE8nZbcJqhAdTVG5kSZv', #password
-        'HOST': 'dpg-cpnfd1eehbks7386jkug-a.oregon-postgres.render.com',  
+        'HOST': 'dpg-cpnfd1eehbks7386jkug-a.oregon-postgres.render.com',  #host
         'PORT': '5432',           
     }
 }
